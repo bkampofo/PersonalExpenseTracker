@@ -31,6 +31,7 @@ Visual Studio 2019 or later
 Validation Rules
 Description: Must be alphabetical, max 100 words
 
+
 Amount: Must be a positive decimal
 
 Category: Must be selected from the dropdown
@@ -46,3 +47,7 @@ Persistent storage
 
 License
 This project is licensed under the MIT License.
+
+git add README.md
+git commit -m "Added clickable GitHub link to README"
+git push
